@@ -10,7 +10,12 @@ Out of the four modules of the National World Skills UK Competition held in 2019
 
 This module was designed to test our HTML5 and CSS3 knowledge and our ability to work under pressure.
 
-We were marked on how closely our version resembled the screenshot we were given at the start.
+We were marked on 4 different criteria -
+
+- W3C Validation (HTML5 & CSS3) and Semantics
+- Likeness to design provided
+- Code Structure
+- Folder Structure & Button Design
 
 ![alt text](https://github.com/barksploit/ux-rockstar/blob/master/screenshot.png?raw=true)
 
