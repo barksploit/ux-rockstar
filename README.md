@@ -2,7 +2,7 @@
 
 > Task Duration - 3 hours
 
-> No Internet Access
+> Under Exam Conditions - No Internet Access
 
 # UX Rockstar Layout Module
 
