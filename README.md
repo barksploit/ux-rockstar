@@ -10,7 +10,7 @@ Out of the four modules of the National World Skills UK Competition held in 2019
 
 This module was designed to test our HTML5 and CSS3 knowledge and our ability to work under pressure.
 
-We were marked on 4 different criteria -
+We were marked on the following criteria -
 
 - W3C Validation (HTML5 & CSS3) and Semantics
 - Likeness to design provided
