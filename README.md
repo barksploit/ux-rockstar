@@ -21,4 +21,4 @@ We were marked on the following criteria -
 
 # Live Website
 
-[Click here to visit a live version of the website](https://ux-rockstar.barksploit.com/)
+[Click here to visit a live version of the website](https://ux-rockstar.grfn.sh/)
